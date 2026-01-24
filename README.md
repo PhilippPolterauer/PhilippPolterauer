@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm passionate about building tools, exploring new
 ## ⚡️ What I'm Working On
 
 - **[cargo-samply](https://github.com/PhilippPolterauer/cargo-samply):** Profiling made easy for Rust projects. Contributor and maintainer.
-- **[adventofcode-2024](https://github.com/PhilippPolterauer/adventofcode-2024):** Solving coding puzzles and sharpening problem-solving skills.
+- **[opencode-todo-reminder](https://github.com/PhilippPolterauer/opencode-todo-reminder):** OpenCode plugin that reminds the AI to continue working on incomplete todos.
+- **[opencode-quotas](https://github.com/PhilippPolterauer/opencode-quotas):** OpenCode.ai plugin that aggregates usage data across Antigravity and Codex.
 
 ---
 
