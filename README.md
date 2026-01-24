@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I'm passionate about building tools, exploring new
 
 - [GitHub](https://github.com/PhilippPolterauer)
 - [LinkedIn](https://www.linkedin.com/in/philipp-polterauer-60471a15a/)
+- [Ko-fi](https://ko-fi.com/philipppolterauer)
 
 ---
 
