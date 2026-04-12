@@ -35,9 +35,11 @@ Welcome to my GitHub profile! I'm passionate about building tools, exploring new
 ---
 
 _Always open for collaboration or a good tech chat!_
-
+<!--
 ## ☕ Support My Work
 
 If you enjoy my projects and want to support what I build, you can buy me a coffee on Ko-fi:
 
 <img src="https://storage.ko-fi.com/cdn/generated/fhfuc7slzawvi/2026-01-24_rest-0a3d0e6bfdaa1fcea5b184dd373a27fc-uctzzjzb.jpg" width="300" alt="Support me on Ko-fi">
+
+-->
