@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Philipp Polterauer
+# 👋 Hi, I'm Philipp
 
 Welcome to my GitHub profile! I'm passionate about building tools, exploring new technologies, and sharing my journey through code.
 
